@@ -6,7 +6,7 @@
     <br>* Not an in-depth dive into the game development by me<br>
     <br> <br>
     
-    </samp>
+  
   <img src="https://media1.giphy.com/media/3oEjHYlwvUK5p9AIbm/giphy.gif?cid=ecf05e47nz09cdmo77hnxl35kq4s6yz3n99bfk1t2tvc1rb9&rid=giphy.gif&ct=g" width="500"/>
 
 </p>
